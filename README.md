@@ -103,7 +103,9 @@ streamlit run app.py
 
 ## 📸 실행 화면
 
-![앱 실행 화면](screenshot.png)
+![입력 화면](InputScreenshot.png)
+
+![결과 화면](ResultsScreenshot.png)
 
 ---
 
